@@ -1,0 +1,3 @@
+<template>
+  <Navigation/>
+</template>
